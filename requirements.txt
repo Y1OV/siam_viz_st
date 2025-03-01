@@ -3,4 +3,3 @@ numpy
 matplotlib
 pandas
 asyncio
-concurrent.futures
